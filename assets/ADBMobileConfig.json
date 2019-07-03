@@ -6,7 +6,7 @@
   "analytics": {
     "rsids": "",
     "server": "",
-    "ssl": false,
+    "ssl": true,
     "offlineEnabled": true,
     "charset": "UTF-8",
     "lifecycleTimeout": 300,
